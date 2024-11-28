@@ -1,0 +1,3 @@
+﻿  정렬2_2.c
+C:\Users\kuroc\source\repos\10장_리스트\정렬2_@\정렬2_2.c(167,6): warning C4101: 'copyedArray' :참조되지 않은 지역 변수입니다.
+  정렬2_@.vcxproj -> C:\Users\kuroc\source\repos\10장_리스트\x64\Debug\정렬2_2.exe
