@@ -1,5 +1,6 @@
-﻿  10장_그래프.c
-C:\Users\kuroc\source\repos\10장_리스트\10장_리스트\10장_그래프.c(37,16): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
-C:\Users\kuroc\source\repos\10장_리스트\10장_리스트\10장_그래프.c(45,16): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
-C:\Users\kuroc\source\repos\10장_리스트\10장_리스트\10장_그래프.c(89,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  10장_리스트.vcxproj -> C:\Users\kuroc\source\repos\10장_리스트\x64\Debug\10장_리스트.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(10장_리스트.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  10장_그래프.c
+C:\Users\kuroc\OneDrive\문서\GitHub\Data-Structure2\10장_리스트\10장_그래프.c(37,16): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\kuroc\OneDrive\문서\GitHub\Data-Structure2\10장_리스트\10장_그래프.c(45,16): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\kuroc\OneDrive\문서\GitHub\Data-Structure2\10장_리스트\10장_그래프.c(89,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  10장_리스트.vcxproj -> C:\Users\kuroc\OneDrive\문서\GitHub\Data-Structure2\x64\Debug\10장_그래프.exe
